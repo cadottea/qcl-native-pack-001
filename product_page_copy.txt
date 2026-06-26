@@ -1,0 +1,46 @@
+QCL NATIVE PACK 001 PRODUCT PAGE COPY
+
+Created: 2026-06-26 15:06:48
+
+TITLE
+
+-----
+
+QCL Native Pack 001
+
+SUBTITLE
+
+--------
+
+Audited 18-component QCL/Lean-compatible research upgrade package.
+
+PRIMARY CLAIM
+
+-------------
+
++9.87% native true-bundle price-level cumulative-return delta.
+
+SHORT DESCRIPTION
+
+-----------------
+
+QCL Native Pack 001 is a completed research/evaluation package for QCL/Lean-compatible systematic trading workflows. It contains 18 licensed upgrade components and has an audited +9.87% native true-bundle validation result on a 336-symbol validation set.
+
+CTA
+
+---
+
+Request evaluation access.
+
+BOUNDARY LANGUAGE
+
+-----------------
+
+Historical validation results are not guarantees of future trading performance. Evaluation access is contact-gated. Production trading rights, redistribution, source ownership, and exclusivity are not included by default.
+
+VERDICT
+
+-------
+
+PRODUCT_PAGE_COPY_CREATED
+

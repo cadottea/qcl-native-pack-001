@@ -1,0 +1,8 @@
+# local/editor noise
+
+.DS_Store
+
+*.bak
+
+*.tmp
+

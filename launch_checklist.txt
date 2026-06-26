@@ -1,0 +1,84 @@
+QCL NATIVE PACK 001 PUBLIC PAGE LAUNCH CHECKLIST
+
+Created: 2026-06-26 15:06:48
+
+BEFORE PUBLISHING
+
+-----------------
+
+1. Replace YOUR_EMAIL_HERE in index.html.
+
+2. Choose the GitHub repository name.
+
+3. Confirm the page does not include the sanitized zip.
+
+4. Confirm the page does not include internal working files.
+
+5. Confirm the page does not include raw internal component identifiers.
+
+6. Confirm no performance guarantee language appears.
+
+7. Publish with GitHub Pages.
+
+RECOMMENDED REPOSITORY NAMES
+
+----------------------------
+
+qcl-native-pack-001
+
+qcl-native-pack
+
+qcl-lean-research-pack
+
+RECOMMENDED GITHUB DESCRIPTION
+
+------------------------------
+
+Audited 18-component QCL/Lean-compatible research upgrade package with +9.87% native true-bundle validation result.
+
+RECOMMENDED TOPIC TAGS
+
+----------------------
+
+quantitative-finance
+
+algorithmic-trading
+
+lean
+
+research
+
+systematic-trading
+
+validation
+
+DO NOT INCLUDE
+
+--------------
+
+Do not include the sanitized buyer-delivery zip in the public repository.
+
+Do not include internal working files.
+
+Do not include raw internal component IDs or raw internal specs.
+
+Do not include copied driver/source trees.
+
+Do not include locked runner artifacts until intentionally approved.
+
+Do not promise live trading results.
+
+NEXT STEPS
+
+----------
+
+Create a GitHub repository and copy this public_product_page folder into it.
+
+Then enable GitHub Pages from the repository settings.
+
+VERDICT
+
+-------
+
+PUBLIC_PRODUCT_PAGE_LAUNCH_CHECKLIST_CREATED
+

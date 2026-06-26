@@ -1,0 +1,62 @@
+GITHUB PUBLISH STEPS FOR QCL NATIVE PACK 001
+
+Created: 2026-06-26 15:08:56
+
+RECOMMENDED REPOSITORY
+
+----------------------
+
+cadottea/qcl-native-pack-001
+
+LOCAL STAGED REPO FOLDER
+
+------------------------
+
+sell_qcl_18_mutation_bundle/github_publish/qcl-native-pack-001
+
+WHAT TO PUBLISH
+
+---------------
+
+Publish only the contents of this folder.
+
+Do not publish:
+
+- non-public internal working materials
+
+- sell_qcl_18_mutation_bundle/dist/
+
+- sanitized buyer zip
+
+- raw internal component IDs
+
+- raw internal specs
+
+- copied driver/source trees
+
+- locked runner artifacts unless separately approved
+
+GITHUB CLI OPTION
+
+-----------------
+
+If GitHub CLI is installed and authenticated, from this folder run:
+
+# gh repo create cadottea/qcl-native-pack-001 --public --source=. --remote=origin --push
+
+Then enable GitHub Pages in repository settings:
+
+Settings -> Pages -> Deploy from branch -> main -> root
+
+EXPECTED PAGE URL
+
+-----------------
+
+https://cadottea.github.io/qcl-native-pack-001/
+
+VERDICT
+
+-------
+
+GITHUB_PUBLISH_STEPS_CREATED
+
