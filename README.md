@@ -1,6 +1,6 @@
 # QCL Native Pack 001
 
-QCL Native Pack 001 is an audited 18-component QCL/Lean-compatible research upgrade package.
+QCL Native Pack 001 is an audited C# / Lean-compatible engine upgrade package for quantitative research workflows.
 
 Primary validation headline:
 
@@ -10,7 +10,7 @@ Validation scope:
 
 - 336-symbol validation set
 
-- 18 licensed upgrade components
+- 18 licensed C# / Lean-compatible upgrade components
 
 - buyer-facing aliases: `QCLNP001-COMP-001` through `QCLNP001-COMP-018`
 
@@ -24,7 +24,7 @@ It is not:
 
 - a performance guarantee
 
-- a live-trading guarantee
+- a production deployment right
 
 - source transfer
 

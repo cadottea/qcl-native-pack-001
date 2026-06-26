@@ -34,7 +34,7 @@ RECOMMENDED GITHUB DESCRIPTION
 
 ------------------------------
 
-Audited 18-component QCL/Lean-compatible research upgrade package with +9.87% native true-bundle validation result.
+Audited C# / Lean-compatible engine upgrade package with 18 licensed components and +9.87% native true-bundle validation result.
 
 RECOMMENDED TOPIC TAGS
 

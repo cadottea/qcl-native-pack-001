@@ -12,7 +12,7 @@ SUBTITLE
 
 --------
 
-Audited 18-component QCL/Lean-compatible research upgrade package.
+Audited C# / Lean-compatible engine upgrade package for quantitative research workflows.
 
 PRIMARY CLAIM
 
@@ -24,7 +24,7 @@ SHORT DESCRIPTION
 
 -----------------
 
-QCL Native Pack 001 is a completed research/evaluation package for QCL/Lean-compatible systematic trading workflows. It contains 18 licensed upgrade components and has an audited +9.87% native true-bundle validation result on a 336-symbol validation set.
+QCL Native Pack 001 is a completed research/evaluation package for C# / Lean-compatible engine workflows. It contains 18 licensed upgrade components and has an audited +9.87% native true-bundle validation result on a 336-symbol validation set.
 
 CTA
 
