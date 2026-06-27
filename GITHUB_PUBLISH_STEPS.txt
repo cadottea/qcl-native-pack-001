@@ -1,12 +1,14 @@
-GITHUB PUBLISH STEPS FOR QCL NATIVE PACK 001
+GITHUB PUBLISH STEPS FOR QCL 15-COMPONENT NO-CMO NATIVE BUNDLE
 
-Created: 2026-06-26 15:08:56
+Updated: 2026-06-27
 
 RECOMMENDED REPOSITORY
 
 ----------------------
 
 cadottea/qcl-native-pack-001
+
+Repository name may remain qcl-native-pack-001 for continuity, but public copy must describe the current package as the 15-component no-CMO native bundle with +31.54% same-method validation.
 
 LOCAL STAGED REPO FOLDER
 
@@ -36,6 +38,12 @@ Do not publish:
 
 - locked runner artifacts unless separately approved
 
+- raw event-return files
+
+- native curve files
+
+- implementation machinery
+
 GITHUB CLI OPTION
 
 -----------------
@@ -43,6 +51,8 @@ GITHUB CLI OPTION
 If GitHub CLI is installed and authenticated, from this folder run:
 
 # gh repo create cadottea/qcl-native-pack-001 --public --source=. --remote=origin --push
+
+If the repository already exists, use normal git add/commit/push from this folder instead of repo creation.
 
 Then enable GitHub Pages in repository settings:
 
@@ -54,9 +64,27 @@ EXPECTED PAGE URL
 
 https://cadottea.github.io/qcl-native-pack-001/
 
+CURRENT PUBLIC CLAIM
+
+--------------------
+
++31.54% mean native price-level cumulative-return delta across 336 Yahoo symbols on the held-out test split.
+
+Exact value:
+
+0.3154268035110944469576241725
+
+Method:
+
+native_event_return_mean_position_sign_equity_curve
+
+Required caveat:
+
+Historical validation results are not guarantees of future trading performance.
+
 VERDICT
 
 -------
 
-GITHUB_PUBLISH_STEPS_CREATED
+GITHUB_PUBLISH_STEPS_UPDATED_TO_NO_CMO_3154
 

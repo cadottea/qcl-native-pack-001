@@ -1,24 +1,37 @@
-QCL NATIVE PACK 001 PUBLIC PAGE LAUNCH CHECKLIST
+QCL 15-COMPONENT NO-CMO NATIVE BUNDLE PUBLIC PAGE LAUNCH CHECKLIST
 
-Created: 2026-06-26 15:06:48
+Updated: 2026-06-27
 
 BEFORE PUBLISHING
 
 -----------------
 
-1. Replace YOUR_EMAIL_HERE in index.html.
+1. Confirm README.md uses +31.54%, 15-component, no-CMO language.
 
-2. Choose the GitHub repository name.
+2. Confirm index.html uses +31.54%, 15-component, no-CMO language.
 
-3. Confirm the page does not include the sanitized zip.
+3. Confirm product_page_copy.txt uses +31.54%, 15-component, no-CMO language.
 
-4. Confirm the page does not include internal working files.
+4. Confirm no stale +9.87% headline remains except explicitly as superseded historical provenance.
 
-5. Confirm the page does not include raw internal component identifiers.
+5. Confirm no superseded 18-component framing remains as current package language.
 
-6. Confirm no performance guarantee language appears.
+6. Confirm the page does not include the sanitized zip.
 
-7. Publish with GitHub Pages.
+7. Confirm the page does not include internal working files.
+
+8. Confirm the page does not include raw internal component identifiers.
+
+9. Confirm the page does not include raw internal specs.
+
+10. Confirm the page does not include copied driver/source trees.
+
+11. Confirm the page does not include raw event returns or native curve files.
+
+12. Confirm no performance guarantee language appears.
+
+13. Confirm historical validation results are not described as guarantees of future trading performance.
+14. Publish with GitHub Pages.
 
 RECOMMENDED REPOSITORY NAMES
 
@@ -34,7 +47,7 @@ RECOMMENDED GITHUB DESCRIPTION
 
 ------------------------------
 
-Audited C# / Lean-compatible engine upgrade package with 18 licensed components and +9.87% native true-bundle validation result.
+Audited C# / Lean-compatible native engine upgrade package with 15 licensed components and +31.54% same-method native validation result.
 
 RECOMMENDED TOPIC TAGS
 
@@ -64,6 +77,10 @@ Do not include raw internal component IDs or raw internal specs.
 
 Do not include copied driver/source trees.
 
+Do not include raw event returns.
+
+Do not include native equity curve files.
+
 Do not include locked runner artifacts until intentionally approved.
 
 Do not promise live trading results.
@@ -72,7 +89,7 @@ NEXT STEPS
 
 ----------
 
-Create a GitHub repository and copy this public_product_page folder into it.
+Create or update the GitHub repository using the contents of this folder.
 
 Then enable GitHub Pages from the repository settings.
 
@@ -80,5 +97,5 @@ VERDICT
 
 -------
 
-PUBLIC_PRODUCT_PAGE_LAUNCH_CHECKLIST_CREATED
+PUBLIC_PRODUCT_PAGE_LAUNCH_CHECKLIST_UPDATED_TO_NO_CMO_3154
 

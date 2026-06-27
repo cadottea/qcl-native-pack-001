@@ -1,20 +1,44 @@
-# QCL Native Pack 001
+# QCL 15-Component No-CMO Native Bundle
 
-QCL Native Pack 001 is an audited C# / Lean-compatible engine upgrade package for quantitative research workflows.
+Audited C# / Lean-compatible native engine upgrade package for quantitative research workflows.
 
 Primary validation headline:
 
-**+9.87% native true-bundle price-level cumulative-return delta**
+**+31.54% mean native price-level cumulative-return delta**
 
 Validation scope:
 
-- 336-symbol validation set
+- 336-symbol Yahoo validation set
 
-- 18 licensed C# / Lean-compatible upgrade components
+- held-out test split
 
-- buyer-facing aliases: `QCLNP001-COMP-001` through `QCLNP001-COMP-018`
+- 15 licensed C# / Lean-compatible upgrade components
 
-A separate detail-derived composite analysis showed **+20.0862822602719%** cumulative-return delta as supporting evidence. The primary headline remains the +9.87% native true-bundle result.
+- native event-return mean-position-sign equity-curve method
+
+- exact value: `0.3154268035110944469576241725`
+
+- weight: `0.005`
+
+- baseline missing count: `0`
+
+This supersedes the earlier QCL Native Pack 001 / 18-component +9.87% headline. The repository name may remain `qcl-native-pack-001` for continuity, but the current package is the validated 15-component no-CMO native bundle.
+
+## Validation artifacts
+
+The same-method repeat produced:
+
+- event-return rows: `48,363,804`
+
+- native equity-curve rows: `3,226,572`
+
+- native summary rows: `6`
+
+- detail rows: `191,520`
+
+- summary rows: `285`
+
+- run status: `returncode=0`
 
 ## Package boundaries
 
@@ -24,7 +48,7 @@ It is not:
 
 - a performance guarantee
 
-- a production deployment right
+- a production deployment right by default
 
 - source transfer
 
@@ -33,6 +57,8 @@ It is not:
 - redistribution or resale rights by default
 
 - exclusivity by default
+
+Historical validation results are not guarantees of future trading performance.
 
 ## Access
 
