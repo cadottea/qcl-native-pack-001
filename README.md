@@ -22,23 +22,6 @@ Validation scope:
 
 - baseline missing count: `0`
 
-This supersedes the earlier QCL Native Pack 001 / native +9.87% headline. The repository name may remain `qcl-native-pack-001` for continuity, but the current package is the validated native package.
-
-## Validation artifacts
-
-The same-method repeat produced:
-
-- event-return rows: `48,363,804`
-
-- native equity-curve rows: `3,226,572`
-
-- native summary rows: `6`
-
-- detail rows: `191,520`
-
-- summary rows: `285`
-
-
 ## Package boundaries
 
 This is a licensed research/evaluation package.

@@ -24,7 +24,7 @@ SHORT DESCRIPTION
 
 -----------------
 
-This is a completed research/evaluation package for C# / Lean-compatible engine workflows. It contains licensed upgrade components and has an audited +31.54% mean native price-level cumulative-return delta across a 336-symbol Yahoo validation set on the held-out test split.
+QCL Native Pack 001 is a completed research/evaluation package for C# / Lean-compatible systematic trading research workflows. It contains 15 licensed upgrade components and has an audited +31.54% mean native price-level cumulative-return delta across a 336-symbol Yahoo validation set on the held-out test split.
 
 VALIDATION METHOD
 
@@ -37,12 +37,6 @@ EXACT VALUE
 -----------
 
 0.3154268035110944469576241725
-
-SUPERSESSION NOTE
-
------------------
-
-This native package supersedes the earlier native +9.87% package headline.
 
 CTA
 
@@ -60,4 +54,5 @@ VERDICT
 
 -------
 
+PRODUCT_PAGE_COPY_PUBLIC_FINAL_3154
 

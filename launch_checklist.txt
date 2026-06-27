@@ -6,31 +6,31 @@ BEFORE PUBLISHING
 
 -----------------
 
-1. Confirm README.md uses +31.54%, native, native language.
+1. Confirm README.md uses +31.54% public validation language.
 
-2. Confirm index.html uses +31.54%, native, native language.
+2. Confirm index.html uses +31.54% public validation language.
 
-3. Confirm product_page_copy.txt uses +31.54%, native, native language.
+3. Confirm product_page_copy.txt uses +31.54% public validation language.
 
+4. Confirm the page does not include the sanitized zip.
 
-5. Confirm no updated the public validation headline remains as current package language.
+5. Confirm the page does not include internal working files.
 
-6. Confirm the page does not include the sanitized zip.
+6. Confirm the page does not include raw internal component identifiers.
 
-7. Confirm the page does not include internal working files.
+7. Confirm the page does not include raw internal specs.
 
-8. Confirm the page does not include raw internal component identifiers.
+8. Confirm the page does not include copied driver/source trees.
 
-9. Confirm the page does not include raw internal specs.
+9. Confirm the page does not include raw event returns or native curve files.
 
-10. Confirm the page does not include copied driver/source trees.
+10. Confirm no internal bundle-selection provenance appears.
 
-11. Confirm the page does not include raw event returns or native curve files.
+11. Confirm no performance guarantee language appears.
 
-12. Confirm no performance guarantee language appears.
+12. Confirm historical validation results are not described as guarantees of future trading performance.
 
-13. Confirm historical validation results are not described as guarantees of future trading performance.
-14. Publish with GitHub Pages.
+13. Publish with GitHub Pages.
 
 RECOMMENDED REPOSITORY NAMES
 
@@ -46,7 +46,7 @@ RECOMMENDED GITHUB DESCRIPTION
 
 ------------------------------
 
-Audited C# / Lean-compatible native engine upgrade package with 15 licensed components and +31.54% same-method native validation result.
+Audited C# / Lean-compatible native engine upgrade package with +31.54% validation result for quantitative research workflows.
 
 RECOMMENDED TOPIC TAGS
 
@@ -88,12 +88,11 @@ NEXT STEPS
 
 ----------
 
-Create or update the GitHub repository using the contents of this folder.
-
-Then enable GitHub Pages from the repository settings.
+Use the github_publish/qcl-native-pack-001 folder for the live GitHub Pages repository.
 
 VERDICT
 
 -------
 
+PUBLIC_PRODUCT_PAGE_LAUNCH_CHECKLIST_PUBLIC_FINAL_3154
 
