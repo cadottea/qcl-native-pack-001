@@ -1,4 +1,4 @@
-QCL 15-COMPONENT NO-CMO NATIVE BUNDLE PRODUCT PAGE COPY
+QCL NATIVE PACK 001 PRODUCT PAGE COPY
 
 Updated: 2026-06-27
 
@@ -6,13 +6,13 @@ TITLE
 
 -----
 
-QCL 15-Component No-CMO Native Bundle
+QCL Native Pack 001
 
 SUBTITLE
 
 --------
 
-Audited C# / Lean-compatible native engine upgrade package for quantitative research workflows.
+Audited C# / Lean-compatible engine upgrade package for quantitative research workflows.
 
 PRIMARY CLAIM
 
@@ -24,25 +24,7 @@ SHORT DESCRIPTION
 
 -----------------
 
-This is a completed research/evaluation package for C# / Lean-compatible engine workflows. It contains 15 licensed upgrade components and has an audited +31.54% mean native price-level cumulative-return delta across a 336-symbol Yahoo validation set on the held-out test split.
-
-VALIDATION METHOD
-
------------------
-
-native_event_return_mean_position_sign_equity_curve
-
-EXACT VALUE
-
------------
-
-0.3154268035110944469576241725
-
-SUPERSESSION NOTE
-
------------------
-
-This 15-component no-CMO bundle supersedes the earlier 18-component +9.87% package headline.
+QCL Native Pack 001 is a completed research/evaluation package for QCL/Lean-compatible systematic trading workflows with an audited +31.54% mean native price-level cumulative-return delta across a 336-symbol Yahoo validation set on the held-out test split.
 
 CTA
 
@@ -60,5 +42,5 @@ VERDICT
 
 -------
 
-PRODUCT_PAGE_COPY_UPDATED_TO_NO_CMO_3154
+PRODUCT_PAGE_COPY_PUBLIC_CLEAN_3154
 

@@ -1,4 +1,4 @@
-QCL 15-COMPONENT NO-CMO NATIVE BUNDLE PUBLIC PAGE LAUNCH CHECKLIST
+QCL NATIVE PACK 001 PUBLIC PAGE LAUNCH CHECKLIST
 
 Updated: 2026-06-27
 
@@ -6,32 +6,25 @@ BEFORE PUBLISHING
 
 -----------------
 
-1. Confirm README.md uses +31.54%, 15-component, no-CMO language.
+1. Confirm page uses +31.54% public validation language.
 
-2. Confirm index.html uses +31.54%, 15-component, no-CMO language.
+2. Confirm the page does not include the sanitized zip.
 
-3. Confirm product_page_copy.txt uses +31.54%, 15-component, no-CMO language.
+3. Confirm the page does not include internal working files.
 
-4. Confirm no stale +9.87% headline remains except explicitly as superseded historical provenance.
+4. Confirm the page does not include raw internal component identifiers.
 
-5. Confirm no superseded 18-component framing remains as current package language.
+5. Confirm the page does not include raw internal specs.
 
-6. Confirm the page does not include the sanitized zip.
+6. Confirm the page does not mention internal bundle-selection provenance.
 
-7. Confirm the page does not include internal working files.
+7. Confirm the page does not mention internal package construction details.
 
-8. Confirm the page does not include raw internal component identifiers.
+8. Confirm no performance guarantee language appears.
 
-9. Confirm the page does not include raw internal specs.
+9. Confirm historical validation results are not presented as guarantees of future trading performance.
 
-10. Confirm the page does not include copied driver/source trees.
-
-11. Confirm the page does not include raw event returns or native curve files.
-
-12. Confirm no performance guarantee language appears.
-
-13. Confirm historical validation results are not described as guarantees of future trading performance.
-14. Publish with GitHub Pages.
+10. Publish with GitHub Pages.
 
 RECOMMENDED REPOSITORY NAMES
 
@@ -47,7 +40,7 @@ RECOMMENDED GITHUB DESCRIPTION
 
 ------------------------------
 
-Audited C# / Lean-compatible native engine upgrade package with 15 licensed components and +31.54% same-method native validation result.
+Audited C# / Lean-compatible engine upgrade package with +31.54% native validation result for quantitative research workflows.
 
 RECOMMENDED TOPIC TAGS
 
@@ -77,10 +70,6 @@ Do not include raw internal component IDs or raw internal specs.
 
 Do not include copied driver/source trees.
 
-Do not include raw event returns.
-
-Do not include native equity curve files.
-
 Do not include locked runner artifacts until intentionally approved.
 
 Do not promise live trading results.
@@ -89,13 +78,11 @@ NEXT STEPS
 
 ----------
 
-Create or update the GitHub repository using the contents of this folder.
-
-Then enable GitHub Pages from the repository settings.
+Use the github_publish/qcl-native-pack-001 folder for the live GitHub Pages repository.
 
 VERDICT
 
 -------
 
-PUBLIC_PRODUCT_PAGE_LAUNCH_CHECKLIST_UPDATED_TO_NO_CMO_3154
+PUBLIC_PRODUCT_PAGE_LAUNCH_CHECKLIST_PUBLIC_CLEAN_3154
 

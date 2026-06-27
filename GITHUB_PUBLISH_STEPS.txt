@@ -1,90 +1,48 @@
-GITHUB PUBLISH STEPS FOR QCL 15-COMPONENT NO-CMO NATIVE BUNDLE
+GITHUB PUBLISH STEPS
 
 Updated: 2026-06-27
 
-RECOMMENDED REPOSITORY
+REPOSITORY
 
-----------------------
+----------
 
-cadottea/qcl-native-pack-001
+https://github.com/cadottea/qcl-native-pack-001
 
-Repository name may remain qcl-native-pack-001 for continuity, but public copy must describe the current package as the 15-component no-CMO native bundle with +31.54% same-method validation.
+PUBLIC PAGE
 
-LOCAL STAGED REPO FOLDER
-
-------------------------
-
-sell_qcl_18_mutation_bundle/github_publish/qcl-native-pack-001
-
-WHAT TO PUBLISH
-
----------------
-
-Publish only the contents of this folder.
-
-Do not publish:
-
-- non-public internal working materials
-
-- sell_qcl_18_mutation_bundle/dist/
-
-- sanitized buyer zip
-
-- raw internal component IDs
-
-- raw internal specs
-
-- copied driver/source trees
-
-- locked runner artifacts unless separately approved
-
-- raw event-return files
-
-- native curve files
-
-- implementation machinery
-
-GITHUB CLI OPTION
-
------------------
-
-If GitHub CLI is installed and authenticated, from this folder run:
-
-# gh repo create cadottea/qcl-native-pack-001 --public --source=. --remote=origin --push
-
-If the repository already exists, use normal git add/commit/push from this folder instead of repo creation.
-
-Then enable GitHub Pages in repository settings:
-
-Settings -> Pages -> Deploy from branch -> main -> root
-
-EXPECTED PAGE URL
-
------------------
+-----------
 
 https://cadottea.github.io/qcl-native-pack-001/
 
-CURRENT PUBLIC CLAIM
+PUBLIC CLAIM
 
---------------------
+------------
 
-+31.54% mean native price-level cumulative-return delta across 336 Yahoo symbols on the held-out test split.
+QCL Native Pack 001 is an audited C# / Lean-compatible engine upgrade package for quantitative research workflows.
 
-Exact value:
+Primary validation headline:
 
-0.3154268035110944469576241725
++31.54% mean native price-level cumulative-return delta across a 336-symbol Yahoo validation set on the held-out test split.
 
-Method:
+BOUNDARY
 
-native_event_return_mean_position_sign_equity_curve
-
-Required caveat:
+--------
 
 Historical validation results are not guarantees of future trading performance.
+
+Do not publish the sanitized buyer-delivery zip in the public repository.
+
+Do not publish internal working files, raw internal component identifiers, raw specs, copied driver/source trees, or locked runner artifacts unless separately approved.
+
+RECOMMENDED GITHUB DESCRIPTION
+
+------------------------------
+
+Audited C# / Lean-compatible engine upgrade package with +31.54% native validation result for quantitative research workflows.
 
 VERDICT
 
 -------
 
-GITHUB_PUBLISH_STEPS_UPDATED_TO_NO_CMO_3154
+GITHUB_PUBLISH_STEPS_PUBLIC_CLEAN_3154
 
