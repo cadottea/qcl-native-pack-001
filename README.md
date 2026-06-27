@@ -53,7 +53,7 @@ Historical validation result, not a performance guarantee.
 
 ## Validation universe relevance
 
-The headline validation result was measured on a curated 336-symbol Yahoo validation universe, not on an arbitrary small sample.
+The headline validation result was measured on a curated 336-symbol Yahoo validation universe selected for financially relevant, liquid, high-attention market coverage.
 
 That universe is intentionally enriched for financially important, liquid, high-attention market symbols, including major ETFs, index proxies, mega-cap technology, semiconductor names, and other widely followed U.S. equities. Examples from the validation universe include SPY, QQQ, VTI, VOO, IVV, DIA, IWM, AAPL, MSFT, AMZN, GOOGL, NVDA, AMD, AVGO, QCOM, TXN, TSLA, and other high-importance market names.
 
