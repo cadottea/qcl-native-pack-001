@@ -60,3 +60,11 @@ That universe is intentionally enriched for financially important, liquid, high-
 This matters for interpretation: the 336-symbol result is commercially meaningful because the selected symbols are closer to the liquid instruments that many quant, brokerage, and portfolio workflows care about.
 
 
+
+---
+
+## See also
+
+- [`lean-cross-impact-no-price-manipulation`](https://github.com/cadottea/lean-cross-impact-no-price-manipulation) — Lean 4 machine-verified proof that passivity conditions exclude price manipulation in nonlinear multi-asset impact models (0 sorry, 0 custom axioms).
+- [`quantlib-heston-calibration-stress-test`](https://github.com/cadottea/quantlib-heston-calibration-stress-test) — Heston calibration under hostile initialization — ~15.7x held-out RMSE reduction vs. plain LM, validated across 36+ seed/regime/engine combos.
+- [`whisper-decoder-control-basin`](https://github.com/cadottea/whisper-decoder-control-basin) — Decoder-scoring intervention for whisper.cpp — 10-22% relative WER reduction, cross-model validated.
