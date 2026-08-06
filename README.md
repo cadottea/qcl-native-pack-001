@@ -4,7 +4,7 @@ Audited C# / Lean-compatible native engine upgrade package for quantitative rese
 
 Primary validation headline:
 
-**+31.54% mean native price-level cumulative-return delta**
+**+51.6365% mean native price-level cumulative-return delta**
 
 Validation scope:
 
@@ -14,9 +14,9 @@ Validation scope:
 
 - 15 licensed C# / Lean-compatible upgrade components
 
-- native event-return mean-position-sign equity-curve method
+- native event-return mean-position-sign equity-curve method, identity-aware aggregation
 
-- exact value: `0.3154268035110944469576241725`
+- exact value: `0.5163650522944162909362596673`
 
 - weight: `0.005`
 
