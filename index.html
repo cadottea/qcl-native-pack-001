@@ -10,7 +10,7 @@
 
   <title>QCL Native Pack 001 — C# / Lean-Compatible Native Engine Upgrade Package</title>
 
-  <meta name="description" content="Audited C# / Lean-compatible native engine upgrade package with 15 licensed components and a +31.54% validation result across 336 Yahoo symbols.">
+  <meta name="description" content="Audited C# / Lean-compatible native engine upgrade package with a validated +51.6365% cumulative-return delta over baseline QCL, lower drawdown and volatility, and higher risk-adjusted metrics across a curated 336-symbol Yahoo validation universe.">
 
   <style>
 
@@ -208,9 +208,9 @@
 
     <div>
 
-      <strong>+31.54%</strong>
+      <strong>+51.64%</strong>
 
-      mean native price-level cumulative-return delta
+      cumulative-return delta over baseline QCL
 
     </div>
 
@@ -260,21 +260,177 @@
 
     <p>
 
-      The package produced a <strong>+31.54% mean native price-level cumulative-return delta</strong>
+      The audited NEW15 package produced a <strong>+51.6365% mean native price-level cumulative-return delta over baseline QCL</strong>
 
-      across a curated 336-symbol Yahoo validation set on the held-out test split.
+      across the curated 336-symbol Yahoo validation universe.
+
+    </p>
+
+    <p>
+
+      This is the measured <strong>incremental improvement over baseline QCL</strong> under the validated
+
+      component-identity-aware mutated-minus-baseline methodology. It is not an absolute portfolio return
+
+      to be compared directly with baseline QCL's own absolute cumulative return.
 
     </p>
 
     <p class="muted">
 
-      Exact decimal value: 0.3154268035110944469576241725.
+      Exact validated delta: 0.5163650522944162909362596673.
 
     </p>
 
     <p class="muted">
 
-      Method: native event-return mean-position-sign equity curve.
+      Validation period: 2020-01-03 through 2026-06-04; 1,613 aligned return dates; 336 symbols.
+
+    </p>
+
+    <p class="muted">
+
+      Method: native event-return identity-aware mean-position-sign equity curve.
+
+    </p>
+
+  </div>
+
+  <div class="card">
+
+    <h2>Risk-adjusted validation</h2>
+
+    <p>
+
+      The validated NEW15 differential signal also showed substantially lower measured risk than unmodified baseline QCL.
+
+    </p>
+
+    <div class="metric">
+
+      <div>
+
+        <strong>0.6590</strong>
+
+        NEW15 Sharpe vs. 0.6405 baseline
+
+      </div>
+
+      <div>
+
+        <strong>15.07%</strong>
+
+        maximum drawdown vs. 31.16% baseline
+
+      </div>
+
+      <div>
+
+        <strong>10.75%</strong>
+
+        annualized volatility vs. 17.80% baseline
+
+      </div>
+
+      <div>
+
+        <strong>0.9410</strong>
+
+        Sortino vs. 0.8897 baseline
+
+      </div>
+
+      <div>
+
+        <strong>4.58%</strong>
+
+        ulcer index vs. 13.24% baseline
+
+      </div>
+
+      <div>
+
+        <strong>0.4449</strong>
+
+        Calmar vs. 0.3298 baseline
+
+      </div>
+
+    </div>
+
+    <p>
+
+      Relative to baseline QCL, NEW15 showed approximately <strong>51.6% lower maximum drawdown</strong>,
+
+      <strong>39.6% lower annualized volatility</strong>, and <strong>65.4% lower ulcer index</strong>,
+
+      while also producing higher Sharpe, Sortino, and Calmar ratios.
+
+    </p>
+
+  </div>
+
+  <div class="card">
+
+    <h2>Robustness and trading behavior</h2>
+
+    <ul>
+
+      <li>Lower maximum drawdown than baseline QCL in <strong>7 of 7 calendar-year segments</strong>.</li>
+
+      <li>Lower rolling-window drawdown in <strong>96.1% of tested rolling windows</strong>.</li>
+
+      <li>High-volatility-regime maximum drawdown: <strong>11.66% NEW15 vs. 28.99% baseline</strong>.</li>
+
+      <li>During baseline drawdowns greater than 20%: <strong>13.58% NEW15 drawdown vs. 30.23% baseline</strong>.</li>
+
+      <li>NEW15 was flat on approximately <strong>60.89% of symbol-days</strong>.</li>
+
+      <li>Position-change frequency was only approximately <strong>1.337%</strong> of possible consecutive symbol transitions.</li>
+
+      <li><strong>196 of 336 symbols</strong>, or 58.33%, finished profitable under the differential signal.</li>
+
+      <li>The largest symbol represented only approximately <strong>6.73%</strong> of aggregate absolute terminal contribution magnitude.</li>
+
+      <li>NEW15 Sharpe remained approximately equal to or above the no-cost baseline-QCL Sharpe through the explicitly tested <strong>5 bps per turnover-unit</strong> cost level.</li>
+
+    </ul>
+
+  </div>
+
+  <div class="card">
+
+    <h2>Validation integrity</h2>
+
+    <p>
+
+      The differential signal was independently reconstructed from raw baseline and mutated component events.
+
+      In the five-symbol causal bridge audit, 120,960 baseline and 120,960 mutated price-level rows were paired
+
+      with zero unmatched identities.
+
+    </p>
+
+    <p>
+
+      The reconstruction produced 8,064 symbol-day rows, exactly matching the authoritative comparison set,
+
+      with <strong>zero semantic mismatches</strong>. All audited return dates occurred strictly after their corresponding signal dates.
+
+    </p>
+
+    <p>
+
+      Bridge validation status: <strong>PASS</strong>.
+
+    </p>
+
+    <p class="muted">
+
+      Component-level calculation: mutated.Position - baseline.Position. Identity-matched component deltas are aggregated
+
+      into the NEW15 signal before subsequent returns are used for scoring.
 
     </p>
 
@@ -361,7 +517,7 @@
 
   <footer>
 
-    Updated 2026-06-27. Historical validation results are not guarantees of future trading performance.
+    Updated 2026-08-11. Historical validation results are not guarantees of future trading performance.
 
   </footer>
 
